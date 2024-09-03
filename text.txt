@@ -1,0 +1,21 @@
+print-->cursor not going to the next line
+println--->cursor going to the next line
+"\n"--->escape sequence for the next line
+
+data types
+    primitive
+        byte    --> 1 byte
+        short 
+        char    --> 2 byte
+        boolean --> 1 byte
+        int     --> 4 byte
+        long    --> 8 byte
+        float   --> 4 byte
+        double  --> 8 byte
+
+    non-primitive
+        String 
+        Array
+        Class 
+        Object 
+        Interface 
